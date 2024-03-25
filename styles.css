@@ -1,0 +1,174 @@
+/* Genel stiller */
+body {
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+/* Header stilleri */
+header {
+  background-color: #333;
+  padding: 20px 0;
+}
+
+header img {
+  max-width: 150px;
+}
+
+nav ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 20px;
+}
+
+nav ul li a {
+  color: #fff;
+  text-decoration: none;
+}
+
+/* Ünlüler galeri stilleri */
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  grid-gap: 20px;
+}
+
+.grid-item img {
+  width: 100%;
+  height: auto;
+  border-radius: 5px;
+  transition: transform 0.3s ease;
+}
+
+.grid-item img:hover {
+  transform: scale(1.05);
+}
+
+/* Footer stilleri */
+footer {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 20px 0;
+}
+
+.photo-container {
+  max-width: 100%;
+  overflow: hidden;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.photo-container img {
+  width: 100%;
+  height: auto;
+}
+
+.vision {
+  padding: 20px;
+  background-color: #f8f9fa;
+  border: 1px solid #dee2e6;
+  border-radius: 5px;
+}
+
+#contact {
+  padding: 50px 0;
+}
+
+#contact h2 {
+  margin-bottom: 30px;
+}
+
+.form-label {
+  font-weight: bold;
+}
+
+.form-control {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+textarea.form-control {
+  resize: vertical;
+}
+
+.btn-primary {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.btn-primary:hover {
+  background-color: #0056b3;
+}
+
+.logo-container {
+  display: flex;
+  align-items: center;
+}
+
+.logo-text {
+  color: white; /* Metin rengini beyaz yapar */
+  font-weight: bold;
+  font-size: 40px;
+  margin-left: 10px; /* Logonun sağındaki boşluk */
+}
+
+.content {
+  padding: 20px;
+}
+
+.content h2 {
+  font-size: 24px;
+  font-weight: bold;
+  color: #333; /* Metin rengini istediğiniz gibi ayarlayabilirsiniz */
+}
+
+.content p {
+  font-size: 16px;
+  color: #666; /* Metin rengini istediğiniz gibi ayarlayabilirsiniz */
+}
+
+
+footer {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+}
+
+.social-icons {
+  text-align: right; /* İkonları sağa hizalar */
+}
+
+.social-icons a {
+  color: #fff; /* İkon rengi */
+  margin-left: 10px; /* İkonlar arası boşluk */
+  font-size: 40px; /* İkon boyutu */
+}
+
+#agency-name {
+  font-size: 40px; /* Yazının boyutunu istediğiniz gibi ayarlayın */
+}
+
+.grid-item {
+  text-align: center; /* İçeriği ortalar */
+}
+
+.celebrity-name {
+  margin-top: 10px; /* İsim ile fotoğraf arasındaki boşluğu ayarlar */
+}
