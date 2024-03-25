@@ -1,0 +1,80 @@
+Websitesi için promtlar:
+
+----
+
+Bir ön web geliştiricisi olarak hareket etmenizi istiyorum. 
+Proje için şu araçları kullanarak yeni bir web sitesi kodlayacaksınız: 
+HTML, CSS için CDN'yi kullanan Bootstrap çerçevesi ve JavaScript. 
+Web sitesi mobil uyumlu ve duyarlı olmalıdır. 
+Ayrıca düzen ve stil açısından site yapısında Twitter Bootstrap CSS sınıflarının en son sürümünü de içermelidir. 
+HTML, CSS ve Javascript kodlarini ayrı çıktılar olarak vermen önemlidir.
+Ayrıca sayfa içeriğindeki başlıklara dahili bağlantılar içeren bir gezinme menüsü de eklemelisiniz. 
+Yazdığınız kodların hiçbirine açıklama yapmayın. 
+Her şeyi anlıyor musun? 
+Eğer söylediklerimi anladıysan lütfen evet veya hayır şeklinde yanıt ver
+
+----
+
+Web sitesinin amacı ajansımın vizyonunu müşterilerime sunmak ve ünlülerimizi tanıtmak. Web sitemde bulunmasını istediğim etiketler (header, main, nav, section, article, aside, footer) şeklindedir. Sayfamın header bölümünde bir logo olmasını istiyorum ve aynı şekilde bu logodan bir adette footer bölümünde olmasini istiyorum. Ünlüler sayfasının galeri görünümde, her bir ızgara 4 adet 200x300 boyutlarında resim yer almasını ve burada yer alacak resim içeriğinin kırpılmamasını istiyorum.
+Resimlerin üzerine gelindiginde bir geçiş efektine sahip kolsun
+
+----
+
+Ünlüleri üstteki navigasyon çubuğuna tıklayınca açılmasını sağlayabilir misin
+
+----
+
+Şimdi ana sayfaya bir fotoğraf ve fotoğrafın sağına şirketin vizyonunu yazacabileceğimiz bir bölüm oluştur
+
+----
+
+Ünlülerin fotoğrafının altına ismini yazabileceğimiz bir bölüm oluştur ve yazıyı fotoğrafa göre ortala.
+
+----
+
+İletişim bölümünü oluştur ve kendin doldur
+
+----
+
+yapay zekanın oluşturduğu celebritylerden oluşan bir firma için hakkında bölümü yaz
+
+----
+
+
+
+Fotoğrafları oluşturduğum promtlar:
+
+----
+
+Gökdelenin önünde kız ve erkek sayısı eşit olan, takım elbisi giyen 10 tane insan fotoğrafı. En önde şirketin ceosu olsun
+
+----
+
+Turuncu ve kıvırcık saçı olan, kadın ünlü fotoğrafı oluştur musun. Arka plan açık gri olsun.
+
+----
+
+Beyaz tenli, çekik gözlü, küt siyah saçları olan çinli kadın fotoğrafı, gerçekçi olsun. Arka planı açık gri yap
+
+----
+
+Almanya'da doğmuş, sarı saçlı , mavi gözlü, 30 yaşlarında bir adam fotoğrafı oluştur. Arka plan açık gri olsun. Ve bu adama bir isim soyisim öner
+
+----
+
+20 yaşında olan, gözlüklü, düz ve kahverengi saçlı öğrenci fotoğrafı. Gerçekçi olsun ve arka plan rengi a0b0b0 kodu olsun
+
+----
+
+2050 yılında 30 yaşında bir genç nasıl gözükecek. Gerçekçi fotoğraf olsun. Arka planı açık gri yap
+
+----
+
+kirli sakallı, mavi gözlü, sarışın, saçları buzzcut 30 yaşında adam oluştur
+
+----
+
+30 yaşlarında, siyah perma saçlı, Sudanlı siyahi kadının vesikalık fotoğrafı. Arka plan açık gri.
+
+----
+
